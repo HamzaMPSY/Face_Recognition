@@ -5,7 +5,7 @@ A python script that can detect and recognize faces in videos, to detect faces i
 
 ## Requirements
 ```
-cv2
+openCV
 numpy
 tensorflow
 keras
