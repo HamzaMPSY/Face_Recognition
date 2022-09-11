@@ -5,6 +5,12 @@ import numpy as np
 from keras_facenet import FaceNet
 
 
+def l2_normalize(x, axis=-1, epsilon=1e-10):
+    output = x / np.sqrt(np.maximum(np.sum(np.square(x),
+                         axis=axis, keepdims=True), epsilon))
+    return output
+
+
 def who_is_it(embeeds, database):
     min_dist = 100
     identity = "<UKN>"
@@ -14,8 +20,8 @@ def who_is_it(embeeds, database):
             if dist < min_dist:
                 min_dist = dist
                 identity = name
-
-    if min_dist > 0.6:
+    print(min_dist)
+    if min_dist > 1:
         identity = "<UKN>"
     return identity
 
@@ -26,8 +32,8 @@ def load_dataset(model):
         database[person] = []
         for pic in os.listdir('dataset' + '/' + person):
             img = cv2.imread('dataset' + '/' + person + '/' + pic)
-            database[person].append(model.extract(
-                img, threshold=0.95)[0]['embedding'])
+            database[person].append(l2_normalize(model.extract(
+                img, threshold=0.95)[0]['embedding']))
 
     return database
 
@@ -53,7 +59,7 @@ while ret:
     detections = model.extract(frame, threshold=0.95)
     for detection in detections:
         x, y, h, w = detection['box']
-        identity = who_is_it(detection['embedding'], database)
+        identity = who_is_it(l2_normalize(detection['embedding']), database)
         cv2.rectangle(frame, (x, y), (x+h, y+w), (0, 0, 255), 2)
         cv2.putText(frame, identity, (x-10, y-10), font,
                     fontScale, fontColor, lineType)
