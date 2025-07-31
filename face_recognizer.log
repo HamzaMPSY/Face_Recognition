@@ -531,3 +531,111 @@
 2025-07-31 15:26:26,180 [INFO] FaceRecognizer: Detected identity: mohammed at location: [797, 235, 340, 413]
 2025-07-31 15:26:26,686 [INFO] FaceRecognizer: Minimum distance found: 0.4108 for identity: mohammed
 2025-07-31 15:26:26,686 [INFO] FaceRecognizer: Detected identity: mohammed at location: [760, 241, 364, 454]
+2025-07-31 15:35:05,397 [INFO] FaceRecognizer: Initializing FaceNet model.
+2025-07-31 15:35:05,397 [INFO] keras_facenet.embedding_model: Loading weights.
+2025-07-31 15:35:05,397 [INFO] keras_facenet.utils: Looking for /Users/elqajjammohammed/.keras-facenet/20180402-114759/20180402-114759-weights.h5
+2025-07-31 15:35:06,230 [INFO] FaceRecognizer: Creating the database of encoded faces.
+2025-07-31 15:35:06,230 [INFO] FaceRecognizer: Loading dataset from dataset
+2025-07-31 15:35:06,231 [INFO] FaceRecognizer: Processing images for person: mohammed
+2025-07-31 15:35:08,834 [INFO] FaceRecognizer: Processing images for person: hamza
+2025-07-31 15:35:11,487 [INFO] FaceRecognizer: Processing images for person: lahoucine
+2025-07-31 15:35:13,757 [INFO] FaceRecognizer: Finished loading dataset.
+2025-07-31 15:35:15,207 [INFO] FaceRecognizer: Webcam stream started successfully.
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.6060 for identity: hamza
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: hamza at location: [908, 413, 188, 244]
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.3904 for identity: mohammed
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: mohammed at location: [55, 173, 325, 386]
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.5309 for identity: lahoucine
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1685, 441, 201, 241]
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Minimum distance found: 0.6297 for identity: hamza
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Detected identity: hamza at location: [904, 410, 192, 253]
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Minimum distance found: 0.3629 for identity: mohammed
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Detected identity: mohammed at location: [62, 149, 307, 366]
+2025-07-31 15:35:17,332 [INFO] FaceRecognizer: Minimum distance found: 0.6471 for identity: hamza
+2025-07-31 15:35:17,332 [INFO] FaceRecognizer: Detected identity: hamza at location: [912, 412, 188, 248]
+2025-07-31 15:35:17,869 [INFO] FaceRecognizer: Minimum distance found: 0.6333 for identity: hamza
+2025-07-31 15:35:17,870 [INFO] FaceRecognizer: Detected identity: hamza at location: [877, 396, 210, 289]
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Minimum distance found: 0.4209 for identity: lahoucine
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1638, 431, 242, 282]
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Minimum distance found: 0.6615 for identity: hamza
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Detected identity: hamza at location: [887, 399, 212, 281]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.6473 for identity: mohammed
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: mohammed at location: [108, 178, 353, 420]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.6087 for identity: hamza
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: hamza at location: [892, 388, 212, 286]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.4265 for identity: lahoucine
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1562, 424, 235, 273]
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Minimum distance found: 0.6171 for identity: hamza
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Detected identity: hamza at location: [899, 394, 208, 273]
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Minimum distance found: 0.4307 for identity: lahoucine
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1577, 411, 224, 268]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.6433 for identity: hamza
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: hamza at location: [900, 393, 206, 275]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.3911 for identity: lahoucine
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1569, 409, 228, 272]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.6117 for identity: mohammed
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: mohammed at location: [184, 248, 330, 382]
+2025-07-31 15:35:20,434 [INFO] FaceRecognizer: Minimum distance found: 0.6410 for identity: hamza
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: hamza at location: [899, 394, 206, 274]
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Minimum distance found: 0.4390 for identity: lahoucine
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1570, 418, 220, 266]
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Minimum distance found: 0.5876 for identity: mohammed
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: mohammed at location: [181, 249, 336, 379]
+2025-07-31 15:35:20,963 [INFO] FaceRecognizer: Minimum distance found: 0.4293 for identity: lahoucine
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1563, 419, 222, 269]
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Minimum distance found: 0.6777 for identity: hamza
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 395, 201, 266]
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Minimum distance found: 0.7596 for identity: mohammed
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: mohammed at location: [170, 207, 348, 401]
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Minimum distance found: 0.6522 for identity: mohammed
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Detected identity: mohammed at location: [131, 199, 336, 391]
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Minimum distance found: 0.3756 for identity: lahoucine
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1559, 419, 233, 269]
+2025-07-31 15:35:21,486 [INFO] FaceRecognizer: Minimum distance found: 0.6690 for identity: hamza
+2025-07-31 15:35:21,486 [INFO] FaceRecognizer: Detected identity: hamza at location: [891, 392, 204, 268]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.3327 for identity: lahoucine
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1562, 421, 220, 264]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.7175 for identity: hamza
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 394, 203, 271]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.5952 for identity: mohammed
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: mohammed at location: [127, 188, 323, 382]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.3293 for identity: lahoucine
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1559, 417, 233, 263]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.5792 for identity: mohammed
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: mohammed at location: [96, 167, 333, 389]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.8815 for identity: hamza
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: hamza at location: [897, 435, 190, 227]
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Minimum distance found: 0.4729 for identity: lahoucine
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1620, 429, 238, 266]
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Minimum distance found: 0.9336 for identity: hamza
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 447, 165, 207]
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Minimum distance found: 0.4162 for identity: lahoucine
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1648, 439, 225, 250]
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Minimum distance found: 0.7149 for identity: hamza
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Detected identity: hamza at location: [893, 442, 161, 212]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.4751 for identity: lahoucine
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1638, 430, 230, 261]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.6666 for identity: hamza
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: hamza at location: [882, 427, 172, 227]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.5471 for identity: mohammed
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: mohammed at location: [26, 110, 335, 384]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.7210 for identity: hamza
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: hamza at location: [886, 397, 194, 248]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.4701 for identity: lahoucine
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1663, 420, 240, 271]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.5545 for identity: mohammed
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: mohammed at location: [0, 69, 343, 441]
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Minimum distance found: 0.6342 for identity: hamza
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Detected identity: hamza at location: [972, 371, 221, 283]
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Minimum distance found: 0.3975 for identity: lahoucine
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1657, 424, 243, 271]
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Minimum distance found: 0.5269 for identity: mohammed
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Detected identity: mohammed at location: [2, 75, 349, 443]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.3882 for identity: lahoucine
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1684, 417, 229, 274]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.6871 for identity: hamza
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: hamza at location: [1026, 357, 255, 331]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.5142 for identity: mohammed
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: mohammed at location: [11, 96, 334, 414]
+2025-07-31 15:35:25,600 [INFO] FaceRecognizer: ESC pressed. Exiting.
+2025-07-31 15:35:25,602 [INFO] FaceRecognizer: Application terminated gracefully.
