@@ -1,0 +1,641 @@
+2025-07-31 15:24:11,724 [INFO] FaceRecognizer: Initializing FaceNet model.
+2025-07-31 15:24:11,725 [INFO] keras_facenet.embedding_model: Loading weights.
+2025-07-31 15:24:11,725 [INFO] keras_facenet.utils: Looking for /Users/elqajjammohammed/.keras-facenet/20180402-114759/20180402-114759-weights.h5
+2025-07-31 15:24:11,769 [INFO] keras_facenet.utils: Downloading /Users/elqajjammohammed/.keras-facenet/20180402-114759/20180402-114759-weights.h5
+2025-07-31 15:25:02,188 [INFO] FaceRecognizer: Creating the database of encoded faces.
+2025-07-31 15:25:02,188 [INFO] FaceRecognizer: Loading dataset from dataset
+2025-07-31 15:25:02,189 [INFO] FaceRecognizer: Processing images for person: mohammed
+2025-07-31 15:25:04,812 [INFO] FaceRecognizer: Processing images for person: hamza
+2025-07-31 15:25:07,311 [INFO] FaceRecognizer: Finished loading dataset.
+2025-07-31 15:25:08,763 [INFO] FaceRecognizer: Webcam stream started successfully.
+2025-07-31 15:25:09,967 [INFO] FaceRecognizer: Minimum distance found: 0.4768 for identity: mohammed
+2025-07-31 15:25:09,967 [INFO] FaceRecognizer: Detected identity: mohammed at location: [765, 535, 272, 343]
+2025-07-31 15:25:09,967 [INFO] FaceRecognizer: Minimum distance found: 0.7299 for identity: hamza
+2025-07-31 15:25:09,968 [INFO] FaceRecognizer: Detected identity: hamza at location: [1663, 450, 290, 368]
+2025-07-31 15:25:10,520 [INFO] FaceRecognizer: Minimum distance found: 0.4638 for identity: mohammed
+2025-07-31 15:25:10,520 [INFO] FaceRecognizer: Detected identity: mohammed at location: [764, 541, 270, 340]
+2025-07-31 15:25:10,520 [INFO] FaceRecognizer: Minimum distance found: 0.7206 for identity: hamza
+2025-07-31 15:25:10,520 [INFO] FaceRecognizer: Detected identity: hamza at location: [1666, 459, 279, 356]
+2025-07-31 15:25:11,042 [INFO] FaceRecognizer: Minimum distance found: 0.4084 for identity: mohammed
+2025-07-31 15:25:11,042 [INFO] FaceRecognizer: Detected identity: mohammed at location: [765, 540, 269, 341]
+2025-07-31 15:25:11,539 [INFO] FaceRecognizer: Minimum distance found: 0.4586 for identity: mohammed
+2025-07-31 15:25:11,539 [INFO] FaceRecognizer: Detected identity: mohammed at location: [758, 540, 284, 353]
+2025-07-31 15:25:11,540 [INFO] FaceRecognizer: Minimum distance found: 0.6700 for identity: hamza
+2025-07-31 15:25:11,540 [INFO] FaceRecognizer: Detected identity: hamza at location: [1613, 458, 315, 379]
+2025-07-31 15:25:12,073 [INFO] FaceRecognizer: Minimum distance found: 0.7331 for identity: mohammed
+2025-07-31 15:25:12,073 [INFO] FaceRecognizer: Detected identity: mohammed at location: [676, 531, 270, 329]
+2025-07-31 15:25:12,073 [INFO] FaceRecognizer: Minimum distance found: 0.6758 for identity: hamza
+2025-07-31 15:25:12,073 [INFO] FaceRecognizer: Detected identity: hamza at location: [1612, 450, 306, 379]
+2025-07-31 15:25:12,621 [INFO] FaceRecognizer: Minimum distance found: 0.6594 for identity: hamza
+2025-07-31 15:25:12,621 [INFO] FaceRecognizer: Detected identity: hamza at location: [1669, 467, 265, 364]
+2025-07-31 15:25:12,621 [INFO] FaceRecognizer: Minimum distance found: 0.6653 for identity: mohammed
+2025-07-31 15:25:12,621 [INFO] FaceRecognizer: Detected identity: mohammed at location: [647, 528, 282, 352]
+2025-07-31 15:25:13,118 [INFO] FaceRecognizer: Minimum distance found: 0.8143 for identity: hamza
+2025-07-31 15:25:13,118 [INFO] FaceRecognizer: Detected identity: hamza at location: [1630, 475, 290, 364]
+2025-07-31 15:25:13,626 [INFO] FaceRecognizer: Minimum distance found: 0.6446 for identity: hamza
+2025-07-31 15:25:13,626 [INFO] FaceRecognizer: Detected identity: hamza at location: [1286, 534, 260, 337]
+2025-07-31 15:25:13,626 [INFO] FaceRecognizer: Minimum distance found: 0.8127 for identity: mohammed
+2025-07-31 15:25:13,626 [INFO] FaceRecognizer: Detected identity: mohammed at location: [514, 558, 321, 390]
+2025-07-31 15:25:14,118 [INFO] FaceRecognizer: Minimum distance found: 0.7141 for identity: hamza
+2025-07-31 15:25:14,118 [INFO] FaceRecognizer: Detected identity: hamza at location: [1246, 544, 251, 326]
+2025-07-31 15:25:14,118 [INFO] FaceRecognizer: Minimum distance found: 0.7721 for identity: mohammed
+2025-07-31 15:25:14,118 [INFO] FaceRecognizer: Detected identity: mohammed at location: [529, 563, 334, 420]
+2025-07-31 15:25:14,612 [INFO] FaceRecognizer: Minimum distance found: 0.6434 for identity: hamza
+2025-07-31 15:25:14,612 [INFO] FaceRecognizer: Detected identity: hamza at location: [1200, 544, 262, 344]
+2025-07-31 15:25:14,612 [INFO] FaceRecognizer: Minimum distance found: 0.9323 for identity: mohammed
+2025-07-31 15:25:14,612 [INFO] FaceRecognizer: Detected identity: mohammed at location: [563, 594, 325, 386]
+2025-07-31 15:25:15,113 [INFO] FaceRecognizer: Minimum distance found: 0.7699 for identity: hamza
+2025-07-31 15:25:15,113 [INFO] FaceRecognizer: Detected identity: hamza at location: [1165, 565, 240, 313]
+2025-07-31 15:25:15,113 [INFO] FaceRecognizer: Minimum distance found: 0.9706 for identity: mohammed
+2025-07-31 15:25:15,113 [INFO] FaceRecognizer: Detected identity: mohammed at location: [569, 597, 314, 380]
+2025-07-31 15:25:15,590 [INFO] FaceRecognizer: Minimum distance found: 0.7936 for identity: hamza
+2025-07-31 15:25:15,590 [INFO] FaceRecognizer: Detected identity: hamza at location: [1170, 571, 230, 305]
+2025-07-31 15:25:15,591 [INFO] FaceRecognizer: Minimum distance found: 0.5696 for identity: mohammed
+2025-07-31 15:25:15,591 [INFO] FaceRecognizer: Detected identity: mohammed at location: [555, 560, 332, 409]
+2025-07-31 15:25:16,091 [INFO] FaceRecognizer: Minimum distance found: 0.6617 for identity: hamza
+2025-07-31 15:25:16,092 [INFO] FaceRecognizer: Detected identity: hamza at location: [1247, 600, 222, 290]
+2025-07-31 15:25:16,092 [INFO] FaceRecognizer: Minimum distance found: 0.6546 for identity: mohammed
+2025-07-31 15:25:16,092 [INFO] FaceRecognizer: Detected identity: mohammed at location: [535, 560, 330, 407]
+2025-07-31 15:25:16,589 [INFO] FaceRecognizer: Minimum distance found: 0.7514 for identity: hamza
+2025-07-31 15:25:16,589 [INFO] FaceRecognizer: Detected identity: hamza at location: [1279, 645, 211, 261]
+2025-07-31 15:25:16,589 [INFO] FaceRecognizer: Minimum distance found: 0.6057 for identity: mohammed
+2025-07-31 15:25:16,589 [INFO] FaceRecognizer: Detected identity: mohammed at location: [550, 564, 333, 413]
+2025-07-31 15:25:17,081 [INFO] FaceRecognizer: Minimum distance found: 0.7438 for identity: hamza
+2025-07-31 15:25:17,081 [INFO] FaceRecognizer: Detected identity: hamza at location: [1246, 652, 196, 256]
+2025-07-31 15:25:17,081 [INFO] FaceRecognizer: Minimum distance found: 0.8287 for identity: mohammed
+2025-07-31 15:25:17,081 [INFO] FaceRecognizer: Detected identity: mohammed at location: [642, 583, 293, 395]
+2025-07-31 15:25:17,571 [INFO] FaceRecognizer: Minimum distance found: 0.7501 for identity: hamza
+2025-07-31 15:25:17,571 [INFO] FaceRecognizer: Detected identity: hamza at location: [1248, 684, 175, 230]
+2025-07-31 15:25:17,571 [INFO] FaceRecognizer: Minimum distance found: 0.6946 for identity: mohammed
+2025-07-31 15:25:17,571 [INFO] FaceRecognizer: Detected identity: mohammed at location: [566, 550, 304, 364]
+2025-07-31 15:25:18,069 [INFO] FaceRecognizer: Minimum distance found: 0.7488 for identity: hamza
+2025-07-31 15:25:18,069 [INFO] FaceRecognizer: Detected identity: hamza at location: [1218, 692, 176, 229]
+2025-07-31 15:25:18,069 [INFO] FaceRecognizer: Minimum distance found: 0.7267 for identity: mohammed
+2025-07-31 15:25:18,069 [INFO] FaceRecognizer: Detected identity: mohammed at location: [475, 535, 311, 380]
+2025-07-31 15:25:18,589 [INFO] FaceRecognizer: Minimum distance found: 0.6461 for identity: mohammed
+2025-07-31 15:25:18,589 [INFO] FaceRecognizer: Detected identity: mohammed at location: [160, 522, 304, 371]
+2025-07-31 15:25:18,589 [INFO] FaceRecognizer: Minimum distance found: 0.7584 for identity: hamza
+2025-07-31 15:25:18,589 [INFO] FaceRecognizer: Detected identity: hamza at location: [1151, 694, 168, 207]
+2025-07-31 15:25:19,092 [INFO] FaceRecognizer: Minimum distance found: 0.7621 for identity: hamza
+2025-07-31 15:25:19,092 [INFO] FaceRecognizer: Detected identity: hamza at location: [1089, 694, 174, 223]
+2025-07-31 15:25:19,590 [INFO] FaceRecognizer: Minimum distance found: 0.6423 for identity: hamza
+2025-07-31 15:25:19,591 [INFO] FaceRecognizer: Detected identity: hamza at location: [1031, 701, 177, 224]
+2025-07-31 15:25:19,591 [INFO] FaceRecognizer: Minimum distance found: 0.7115 for identity: mohammed
+2025-07-31 15:25:19,591 [INFO] FaceRecognizer: Detected identity: mohammed at location: [422, 562, 284, 348]
+2025-07-31 15:25:20,069 [INFO] FaceRecognizer: Minimum distance found: 0.8543 for identity: hamza
+2025-07-31 15:25:20,069 [INFO] FaceRecognizer: Detected identity: hamza at location: [815, 709, 172, 215]
+2025-07-31 15:25:20,579 [INFO] FaceRecognizer: Minimum distance found: 0.8361 for identity: hamza
+2025-07-31 15:25:20,579 [INFO] FaceRecognizer: Detected identity: hamza at location: [533, 705, 170, 212]
+2025-07-31 15:25:20,579 [INFO] FaceRecognizer: Minimum distance found: 1.0631 for identity: mohammed
+2025-07-31 15:25:20,579 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:20,579 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1513, 676, 268, 307]
+2025-07-31 15:25:21,086 [INFO] FaceRecognizer: Minimum distance found: 1.1675 for identity: mohammed
+2025-07-31 15:25:21,086 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:21,086 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1183, 704, 236, 289]
+2025-07-31 15:25:21,086 [INFO] FaceRecognizer: Minimum distance found: 0.7707 for identity: hamza
+2025-07-31 15:25:21,086 [INFO] FaceRecognizer: Detected identity: hamza at location: [284, 688, 181, 222]
+2025-07-31 15:25:21,570 [INFO] FaceRecognizer: Minimum distance found: 0.7002 for identity: hamza
+2025-07-31 15:25:21,570 [INFO] FaceRecognizer: Detected identity: hamza at location: [312, 690, 182, 226]
+2025-07-31 15:25:21,570 [INFO] FaceRecognizer: Minimum distance found: 1.1834 for identity: mohammed
+2025-07-31 15:25:21,570 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:21,570 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1149, 717, 218, 265]
+2025-07-31 15:25:22,074 [INFO] FaceRecognizer: Minimum distance found: 0.8015 for identity: hamza
+2025-07-31 15:25:22,074 [INFO] FaceRecognizer: Detected identity: hamza at location: [330, 693, 182, 226]
+2025-07-31 15:25:22,074 [INFO] FaceRecognizer: Minimum distance found: 1.1668 for identity: mohammed
+2025-07-31 15:25:22,074 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:22,074 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1140, 714, 210, 260]
+2025-07-31 15:25:22,614 [INFO] FaceRecognizer: Minimum distance found: 0.7079 for identity: hamza
+2025-07-31 15:25:22,614 [INFO] FaceRecognizer: Detected identity: hamza at location: [385, 695, 178, 230]
+2025-07-31 15:25:22,614 [INFO] FaceRecognizer: Minimum distance found: 1.0631 for identity: mohammed
+2025-07-31 15:25:22,614 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:22,614 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1085, 724, 198, 270]
+2025-07-31 15:25:23,138 [INFO] FaceRecognizer: Minimum distance found: 0.8388 for identity: hamza
+2025-07-31 15:25:23,138 [INFO] FaceRecognizer: Detected identity: hamza at location: [469, 712, 170, 218]
+2025-07-31 15:25:23,138 [INFO] FaceRecognizer: Minimum distance found: 1.0381 for identity: mohammed
+2025-07-31 15:25:23,138 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:23,138 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1264, 691, 194, 247]
+2025-07-31 15:25:23,676 [INFO] FaceRecognizer: Minimum distance found: 0.8068 for identity: hamza
+2025-07-31 15:25:23,676 [INFO] FaceRecognizer: Detected identity: hamza at location: [598, 728, 157, 209]
+2025-07-31 15:25:23,676 [INFO] FaceRecognizer: Minimum distance found: 1.1493 for identity: mohammed
+2025-07-31 15:25:23,676 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:23,676 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1511, 694, 195, 229]
+2025-07-31 15:25:24,195 [INFO] FaceRecognizer: Minimum distance found: 1.0601 for identity: mohammed
+2025-07-31 15:25:24,195 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:24,195 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1736, 725, 198, 259]
+2025-07-31 15:25:24,195 [INFO] FaceRecognizer: Minimum distance found: 0.8009 for identity: hamza
+2025-07-31 15:25:24,195 [INFO] FaceRecognizer: Detected identity: hamza at location: [635, 725, 165, 218]
+2025-07-31 15:25:24,687 [INFO] FaceRecognizer: Minimum distance found: 1.1054 for identity: mohammed
+2025-07-31 15:25:24,687 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:24,687 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1691, 711, 217, 258]
+2025-07-31 15:25:24,688 [INFO] FaceRecognizer: Minimum distance found: 0.7668 for identity: hamza
+2025-07-31 15:25:24,688 [INFO] FaceRecognizer: Detected identity: hamza at location: [642, 727, 191, 253]
+2025-07-31 15:25:25,181 [INFO] FaceRecognizer: Minimum distance found: 1.0822 for identity: mohammed
+2025-07-31 15:25:25,181 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:25,181 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1552, 706, 213, 264]
+2025-07-31 15:25:25,182 [INFO] FaceRecognizer: Minimum distance found: 0.8617 for identity: hamza
+2025-07-31 15:25:25,182 [INFO] FaceRecognizer: Detected identity: hamza at location: [573, 704, 190, 237]
+2025-07-31 15:25:25,670 [INFO] FaceRecognizer: Minimum distance found: 0.8118 for identity: hamza
+2025-07-31 15:25:25,670 [INFO] FaceRecognizer: Detected identity: hamza at location: [543, 746, 158, 208]
+2025-07-31 15:25:25,671 [INFO] FaceRecognizer: Minimum distance found: 1.1955 for identity: hamza
+2025-07-31 15:25:25,671 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:25,671 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1578, 719, 210, 263]
+2025-07-31 15:25:26,175 [INFO] FaceRecognizer: Minimum distance found: 0.7069 for identity: hamza
+2025-07-31 15:25:26,175 [INFO] FaceRecognizer: Detected identity: hamza at location: [512, 753, 155, 204]
+2025-07-31 15:25:26,175 [INFO] FaceRecognizer: Minimum distance found: 1.1224 for identity: mohammed
+2025-07-31 15:25:26,175 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:26,175 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1614, 732, 200, 243]
+2025-07-31 15:25:26,665 [INFO] FaceRecognizer: Minimum distance found: 1.1730 for identity: mohammed
+2025-07-31 15:25:26,665 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:26,665 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1509, 724, 205, 246]
+2025-07-31 15:25:26,665 [INFO] FaceRecognizer: Minimum distance found: 0.7108 for identity: hamza
+2025-07-31 15:25:26,665 [INFO] FaceRecognizer: Detected identity: hamza at location: [482, 755, 168, 218]
+2025-07-31 15:25:27,160 [INFO] FaceRecognizer: Minimum distance found: 1.1044 for identity: mohammed
+2025-07-31 15:25:27,160 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:27,160 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1504, 747, 204, 238]
+2025-07-31 15:25:27,160 [INFO] FaceRecognizer: Minimum distance found: 0.8755 for identity: hamza
+2025-07-31 15:25:27,160 [INFO] FaceRecognizer: Detected identity: hamza at location: [505, 758, 162, 219]
+2025-07-31 15:25:27,654 [INFO] FaceRecognizer: Minimum distance found: 0.7683 for identity: hamza
+2025-07-31 15:25:27,654 [INFO] FaceRecognizer: Detected identity: hamza at location: [562, 783, 170, 214]
+2025-07-31 15:25:27,654 [INFO] FaceRecognizer: Minimum distance found: 1.1645 for identity: mohammed
+2025-07-31 15:25:27,654 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:27,654 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1463, 734, 188, 253]
+2025-07-31 15:25:28,132 [INFO] FaceRecognizer: Minimum distance found: 1.1479 for identity: mohammed
+2025-07-31 15:25:28,133 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:28,133 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1517, 739, 187, 244]
+2025-07-31 15:25:28,655 [INFO] FaceRecognizer: Minimum distance found: 0.7043 for identity: hamza
+2025-07-31 15:25:28,655 [INFO] FaceRecognizer: Detected identity: hamza at location: [564, 759, 161, 209]
+2025-07-31 15:25:28,655 [INFO] FaceRecognizer: Minimum distance found: 1.1106 for identity: mohammed
+2025-07-31 15:25:28,655 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:28,655 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1532, 746, 179, 239]
+2025-07-31 15:25:29,172 [INFO] FaceRecognizer: Minimum distance found: 0.6218 for identity: hamza
+2025-07-31 15:25:29,172 [INFO] FaceRecognizer: Detected identity: hamza at location: [557, 753, 161, 206]
+2025-07-31 15:25:29,172 [INFO] FaceRecognizer: Minimum distance found: 1.1695 for identity: hamza
+2025-07-31 15:25:29,172 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:29,172 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1534, 734, 197, 251]
+2025-07-31 15:25:29,662 [INFO] FaceRecognizer: Minimum distance found: 0.7148 for identity: hamza
+2025-07-31 15:25:29,662 [INFO] FaceRecognizer: Detected identity: hamza at location: [563, 754, 159, 210]
+2025-07-31 15:25:29,662 [INFO] FaceRecognizer: Minimum distance found: 1.2667 for identity: hamza
+2025-07-31 15:25:29,662 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:29,662 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1547, 726, 199, 258]
+2025-07-31 15:25:30,155 [INFO] FaceRecognizer: Minimum distance found: 0.7817 for identity: hamza
+2025-07-31 15:25:30,155 [INFO] FaceRecognizer: Detected identity: hamza at location: [567, 755, 158, 207]
+2025-07-31 15:25:30,156 [INFO] FaceRecognizer: Minimum distance found: 1.1786 for identity: hamza
+2025-07-31 15:25:30,156 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:30,156 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1562, 734, 191, 248]
+2025-07-31 15:25:30,654 [INFO] FaceRecognizer: Minimum distance found: 0.6926 for identity: hamza
+2025-07-31 15:25:30,654 [INFO] FaceRecognizer: Detected identity: hamza at location: [571, 753, 157, 202]
+2025-07-31 15:25:30,654 [INFO] FaceRecognizer: Minimum distance found: 1.1671 for identity: hamza
+2025-07-31 15:25:30,654 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:30,654 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1562, 734, 193, 252]
+2025-07-31 15:25:31,145 [INFO] FaceRecognizer: Minimum distance found: 0.6740 for identity: hamza
+2025-07-31 15:25:31,145 [INFO] FaceRecognizer: Detected identity: hamza at location: [582, 671, 173, 226]
+2025-07-31 15:25:31,145 [INFO] FaceRecognizer: Minimum distance found: 1.1340 for identity: hamza
+2025-07-31 15:25:31,145 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:31,145 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1575, 737, 191, 247]
+2025-07-31 15:25:31,647 [INFO] FaceRecognizer: Minimum distance found: 0.6516 for identity: hamza
+2025-07-31 15:25:31,647 [INFO] FaceRecognizer: Detected identity: hamza at location: [624, 613, 211, 269]
+2025-07-31 15:25:31,647 [INFO] FaceRecognizer: Minimum distance found: 1.1980 for identity: mohammed
+2025-07-31 15:25:31,647 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:31,647 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1638, 727, 216, 258]
+2025-07-31 15:25:32,135 [INFO] FaceRecognizer: Minimum distance found: 0.7183 for identity: hamza
+2025-07-31 15:25:32,135 [INFO] FaceRecognizer: Detected identity: hamza at location: [655, 579, 235, 308]
+2025-07-31 15:25:32,135 [INFO] FaceRecognizer: Minimum distance found: 1.0363 for identity: mohammed
+2025-07-31 15:25:32,136 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:32,136 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1683, 763, 217, 258]
+2025-07-31 15:25:32,640 [INFO] FaceRecognizer: Minimum distance found: 0.6428 for identity: hamza
+2025-07-31 15:25:32,640 [INFO] FaceRecognizer: Detected identity: hamza at location: [637, 566, 242, 315]
+2025-07-31 15:25:32,641 [INFO] FaceRecognizer: Minimum distance found: 1.1127 for identity: hamza
+2025-07-31 15:25:32,641 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:32,641 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1736, 760, 215, 295]
+2025-07-31 15:25:33,125 [INFO] FaceRecognizer: Minimum distance found: 1.0503 for identity: mohammed
+2025-07-31 15:25:33,125 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:33,125 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1722, 822, 208, 264]
+2025-07-31 15:25:33,125 [INFO] FaceRecognizer: Minimum distance found: 0.6457 for identity: hamza
+2025-07-31 15:25:33,125 [INFO] FaceRecognizer: Detected identity: hamza at location: [594, 551, 255, 338]
+2025-07-31 15:25:33,692 [INFO] FaceRecognizer: Minimum distance found: 0.6388 for identity: hamza
+2025-07-31 15:25:33,692 [INFO] FaceRecognizer: Detected identity: hamza at location: [587, 558, 246, 314]
+2025-07-31 15:25:33,692 [INFO] FaceRecognizer: Minimum distance found: 1.1901 for identity: mohammed
+2025-07-31 15:25:33,692 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:33,692 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1700, 823, 231, 284]
+2025-07-31 15:25:34,191 [INFO] FaceRecognizer: Minimum distance found: 0.6676 for identity: hamza
+2025-07-31 15:25:34,191 [INFO] FaceRecognizer: Detected identity: hamza at location: [581, 561, 248, 326]
+2025-07-31 15:25:34,705 [INFO] FaceRecognizer: Minimum distance found: 0.5834 for identity: hamza
+2025-07-31 15:25:34,705 [INFO] FaceRecognizer: Detected identity: hamza at location: [609, 559, 242, 320]
+2025-07-31 15:25:34,705 [INFO] FaceRecognizer: Minimum distance found: 1.0877 for identity: mohammed
+2025-07-31 15:25:34,705 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:34,705 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1516, 718, 250, 293]
+2025-07-31 15:25:35,229 [INFO] FaceRecognizer: Minimum distance found: 0.6321 for identity: hamza
+2025-07-31 15:25:35,229 [INFO] FaceRecognizer: Detected identity: hamza at location: [637, 565, 238, 313]
+2025-07-31 15:25:35,229 [INFO] FaceRecognizer: Minimum distance found: 1.1048 for identity: mohammed
+2025-07-31 15:25:35,229 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:35,229 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1403, 694, 218, 262]
+2025-07-31 15:25:35,758 [INFO] FaceRecognizer: Minimum distance found: 1.1064 for identity: mohammed
+2025-07-31 15:25:35,758 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:35,758 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1373, 707, 207, 248]
+2025-07-31 15:25:35,758 [INFO] FaceRecognizer: Minimum distance found: 0.6077 for identity: hamza
+2025-07-31 15:25:35,758 [INFO] FaceRecognizer: Detected identity: hamza at location: [648, 563, 229, 312]
+2025-07-31 15:25:36,292 [INFO] FaceRecognizer: Minimum distance found: 0.6145 for identity: hamza
+2025-07-31 15:25:36,292 [INFO] FaceRecognizer: Detected identity: hamza at location: [666, 563, 223, 304]
+2025-07-31 15:25:36,292 [INFO] FaceRecognizer: Minimum distance found: 1.1336 for identity: mohammed
+2025-07-31 15:25:36,292 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:36,292 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1392, 700, 198, 232]
+2025-07-31 15:25:36,816 [INFO] FaceRecognizer: Minimum distance found: 1.0989 for identity: mohammed
+2025-07-31 15:25:36,816 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:36,816 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1379, 707, 193, 224]
+2025-07-31 15:25:36,816 [INFO] FaceRecognizer: Minimum distance found: 0.6667 for identity: hamza
+2025-07-31 15:25:36,816 [INFO] FaceRecognizer: Detected identity: hamza at location: [650, 567, 204, 273]
+2025-07-31 15:25:37,328 [INFO] FaceRecognizer: Minimum distance found: 0.6719 for identity: hamza
+2025-07-31 15:25:37,328 [INFO] FaceRecognizer: Detected identity: hamza at location: [634, 567, 208, 284]
+2025-07-31 15:25:37,328 [INFO] FaceRecognizer: Minimum distance found: 1.0994 for identity: mohammed
+2025-07-31 15:25:37,328 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:37,328 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1366, 726, 192, 228]
+2025-07-31 15:25:37,863 [INFO] FaceRecognizer: Minimum distance found: 0.6359 for identity: hamza
+2025-07-31 15:25:37,863 [INFO] FaceRecognizer: Detected identity: hamza at location: [617, 581, 209, 279]
+2025-07-31 15:25:37,863 [INFO] FaceRecognizer: Minimum distance found: 1.0978 for identity: mohammed
+2025-07-31 15:25:37,863 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:37,863 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1360, 730, 178, 214]
+2025-07-31 15:25:38,369 [INFO] FaceRecognizer: Minimum distance found: 0.6218 for identity: hamza
+2025-07-31 15:25:38,369 [INFO] FaceRecognizer: Detected identity: hamza at location: [618, 566, 218, 297]
+2025-07-31 15:25:38,370 [INFO] FaceRecognizer: Minimum distance found: 1.0944 for identity: mohammed
+2025-07-31 15:25:38,370 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:38,370 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1369, 736, 188, 223]
+2025-07-31 15:25:38,857 [INFO] FaceRecognizer: Minimum distance found: 0.6143 for identity: hamza
+2025-07-31 15:25:38,857 [INFO] FaceRecognizer: Detected identity: hamza at location: [622, 579, 207, 283]
+2025-07-31 15:25:38,857 [INFO] FaceRecognizer: Minimum distance found: 1.1142 for identity: mohammed
+2025-07-31 15:25:38,857 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:38,857 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1381, 735, 189, 225]
+2025-07-31 15:25:39,353 [INFO] FaceRecognizer: Minimum distance found: 0.6367 for identity: hamza
+2025-07-31 15:25:39,353 [INFO] FaceRecognizer: Detected identity: hamza at location: [605, 600, 199, 263]
+2025-07-31 15:25:39,353 [INFO] FaceRecognizer: Minimum distance found: 1.0991 for identity: mohammed
+2025-07-31 15:25:39,353 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:39,353 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1386, 733, 185, 223]
+2025-07-31 15:25:39,850 [INFO] FaceRecognizer: Minimum distance found: 0.6211 for identity: hamza
+2025-07-31 15:25:39,850 [INFO] FaceRecognizer: Detected identity: hamza at location: [586, 620, 201, 264]
+2025-07-31 15:25:39,850 [INFO] FaceRecognizer: Minimum distance found: 1.1384 for identity: mohammed
+2025-07-31 15:25:39,850 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:39,850 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1388, 734, 189, 227]
+2025-07-31 15:25:40,411 [INFO] FaceRecognizer: Minimum distance found: 0.5757 for identity: hamza
+2025-07-31 15:25:40,411 [INFO] FaceRecognizer: Detected identity: hamza at location: [593, 632, 194, 255]
+2025-07-31 15:25:40,411 [INFO] FaceRecognizer: Minimum distance found: 1.1431 for identity: mohammed
+2025-07-31 15:25:40,411 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:40,411 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1373, 738, 196, 228]
+2025-07-31 15:25:40,928 [INFO] FaceRecognizer: Minimum distance found: 0.5839 for identity: hamza
+2025-07-31 15:25:40,928 [INFO] FaceRecognizer: Detected identity: hamza at location: [602, 642, 194, 256]
+2025-07-31 15:25:40,928 [INFO] FaceRecognizer: Minimum distance found: 1.2076 for identity: mohammed
+2025-07-31 15:25:40,928 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:40,928 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1351, 749, 186, 220]
+2025-07-31 15:25:41,458 [INFO] FaceRecognizer: Minimum distance found: 0.5551 for identity: hamza
+2025-07-31 15:25:41,458 [INFO] FaceRecognizer: Detected identity: hamza at location: [603, 643, 195, 258]
+2025-07-31 15:25:41,458 [INFO] FaceRecognizer: Minimum distance found: 1.1772 for identity: mohammed
+2025-07-31 15:25:41,458 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:41,458 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1346, 753, 194, 229]
+2025-07-31 15:25:41,986 [INFO] FaceRecognizer: Minimum distance found: 0.6264 for identity: hamza
+2025-07-31 15:25:41,986 [INFO] FaceRecognizer: Detected identity: hamza at location: [620, 653, 189, 249]
+2025-07-31 15:25:41,986 [INFO] FaceRecognizer: Minimum distance found: 1.1148 for identity: mohammed
+2025-07-31 15:25:41,986 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:41,986 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1347, 752, 189, 224]
+2025-07-31 15:25:42,512 [INFO] FaceRecognizer: Minimum distance found: 0.6125 for identity: hamza
+2025-07-31 15:25:42,512 [INFO] FaceRecognizer: Detected identity: hamza at location: [638, 655, 184, 248]
+2025-07-31 15:25:42,512 [INFO] FaceRecognizer: Minimum distance found: 1.1873 for identity: mohammed
+2025-07-31 15:25:42,512 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:42,512 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1348, 749, 198, 231]
+2025-07-31 15:25:43,045 [INFO] FaceRecognizer: Minimum distance found: 0.5921 for identity: hamza
+2025-07-31 15:25:43,045 [INFO] FaceRecognizer: Detected identity: hamza at location: [634, 652, 186, 253]
+2025-07-31 15:25:43,045 [INFO] FaceRecognizer: Minimum distance found: 1.0745 for identity: mohammed
+2025-07-31 15:25:43,045 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:43,045 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1329, 752, 196, 226]
+2025-07-31 15:25:43,574 [INFO] FaceRecognizer: Minimum distance found: 0.5100 for identity: hamza
+2025-07-31 15:25:43,574 [INFO] FaceRecognizer: Detected identity: hamza at location: [628, 646, 193, 258]
+2025-07-31 15:25:43,574 [INFO] FaceRecognizer: Minimum distance found: 1.0841 for identity: mohammed
+2025-07-31 15:25:43,574 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:43,574 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1344, 744, 195, 227]
+2025-07-31 15:25:44,107 [INFO] FaceRecognizer: Minimum distance found: 0.7042 for identity: hamza
+2025-07-31 15:25:44,107 [INFO] FaceRecognizer: Detected identity: hamza at location: [634, 660, 193, 267]
+2025-07-31 15:25:44,107 [INFO] FaceRecognizer: Minimum distance found: 1.0694 for identity: mohammed
+2025-07-31 15:25:44,107 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:44,107 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1398, 727, 204, 249]
+2025-07-31 15:25:44,631 [INFO] FaceRecognizer: Minimum distance found: 0.6662 for identity: hamza
+2025-07-31 15:25:44,632 [INFO] FaceRecognizer: Detected identity: hamza at location: [648, 679, 199, 266]
+2025-07-31 15:25:44,632 [INFO] FaceRecognizer: Minimum distance found: 1.1136 for identity: mohammed
+2025-07-31 15:25:44,632 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:44,632 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1474, 730, 208, 257]
+2025-07-31 15:25:45,162 [INFO] FaceRecognizer: Minimum distance found: 0.6605 for identity: hamza
+2025-07-31 15:25:45,162 [INFO] FaceRecognizer: Detected identity: hamza at location: [683, 684, 198, 264]
+2025-07-31 15:25:45,162 [INFO] FaceRecognizer: Minimum distance found: 1.2576 for identity: mohammed
+2025-07-31 15:25:45,162 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:45,162 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1521, 743, 208, 253]
+2025-07-31 15:25:45,687 [INFO] FaceRecognizer: Minimum distance found: 0.6782 for identity: hamza
+2025-07-31 15:25:45,687 [INFO] FaceRecognizer: Detected identity: hamza at location: [684, 678, 193, 255]
+2025-07-31 15:25:45,687 [INFO] FaceRecognizer: Minimum distance found: 1.1103 for identity: mohammed
+2025-07-31 15:25:45,687 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:45,687 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1461, 738, 189, 241]
+2025-07-31 15:25:46,181 [INFO] FaceRecognizer: Minimum distance found: 0.6632 for identity: hamza
+2025-07-31 15:25:46,181 [INFO] FaceRecognizer: Detected identity: hamza at location: [683, 670, 195, 255]
+2025-07-31 15:25:46,181 [INFO] FaceRecognizer: Minimum distance found: 1.0975 for identity: mohammed
+2025-07-31 15:25:46,181 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:46,181 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1507, 739, 211, 257]
+2025-07-31 15:25:46,672 [INFO] FaceRecognizer: Minimum distance found: 0.6689 for identity: hamza
+2025-07-31 15:25:46,673 [INFO] FaceRecognizer: Detected identity: hamza at location: [700, 627, 216, 281]
+2025-07-31 15:25:46,673 [INFO] FaceRecognizer: Minimum distance found: 1.1582 for identity: mohammed
+2025-07-31 15:25:46,673 [WARNING] FaceRecognizer: No matching identity found. Returning <UKN>.
+2025-07-31 15:25:46,673 [INFO] FaceRecognizer: Detected identity: <UKN> at location: [1661, 790, 248, 296]
+2025-07-31 15:25:47,149 [INFO] FaceRecognizer: Minimum distance found: 0.6606 for identity: hamza
+2025-07-31 15:25:47,149 [INFO] FaceRecognizer: Detected identity: hamza at location: [868, 618, 234, 297]
+2025-07-31 15:25:47,663 [INFO] FaceRecognizer: Minimum distance found: 0.6747 for identity: hamza
+2025-07-31 15:25:47,663 [INFO] FaceRecognizer: Detected identity: hamza at location: [1207, 584, 234, 291]
+2025-07-31 15:25:47,663 [INFO] FaceRecognizer: Minimum distance found: 0.4865 for identity: mohammed
+2025-07-31 15:25:47,664 [INFO] FaceRecognizer: Detected identity: mohammed at location: [26, 290, 425, 495]
+2025-07-31 15:25:48,164 [INFO] FaceRecognizer: Minimum distance found: 0.4174 for identity: mohammed
+2025-07-31 15:25:48,164 [INFO] FaceRecognizer: Detected identity: mohammed at location: [162, 313, 396, 469]
+2025-07-31 15:25:48,164 [INFO] FaceRecognizer: Minimum distance found: 0.6747 for identity: hamza
+2025-07-31 15:25:48,164 [INFO] FaceRecognizer: Detected identity: hamza at location: [1309, 583, 232, 287]
+2025-07-31 15:25:48,702 [INFO] FaceRecognizer: Minimum distance found: 0.6666 for identity: hamza
+2025-07-31 15:25:48,702 [INFO] FaceRecognizer: Detected identity: hamza at location: [1322, 576, 245, 311]
+2025-07-31 15:25:48,702 [INFO] FaceRecognizer: Minimum distance found: 0.3917 for identity: mohammed
+2025-07-31 15:25:48,702 [INFO] FaceRecognizer: Detected identity: mohammed at location: [183, 327, 393, 448]
+2025-07-31 15:25:49,208 [INFO] FaceRecognizer: Minimum distance found: 0.6089 for identity: hamza
+2025-07-31 15:25:49,209 [INFO] FaceRecognizer: Detected identity: hamza at location: [1332, 609, 230, 292]
+2025-07-31 15:25:49,707 [INFO] FaceRecognizer: Minimum distance found: 0.7483 for identity: hamza
+2025-07-31 15:25:49,707 [INFO] FaceRecognizer: Detected identity: hamza at location: [1355, 656, 209, 278]
+2025-07-31 15:25:50,651 [INFO] FaceRecognizer: Minimum distance found: 0.8471 for identity: hamza
+2025-07-31 15:25:50,651 [INFO] FaceRecognizer: Detected identity: hamza at location: [1449, 728, 172, 218]
+2025-07-31 15:25:51,181 [INFO] FaceRecognizer: Minimum distance found: 0.5864 for identity: hamza
+2025-07-31 15:25:51,181 [INFO] FaceRecognizer: Detected identity: hamza at location: [1422, 735, 179, 231]
+2025-07-31 15:25:51,182 [INFO] FaceRecognizer: Minimum distance found: 0.3948 for identity: mohammed
+2025-07-31 15:25:51,182 [INFO] FaceRecognizer: Detected identity: mohammed at location: [250, 325, 403, 490]
+2025-07-31 15:25:51,686 [INFO] FaceRecognizer: Minimum distance found: 0.6663 for identity: hamza
+2025-07-31 15:25:51,686 [INFO] FaceRecognizer: Detected identity: hamza at location: [1306, 726, 178, 227]
+2025-07-31 15:25:52,187 [INFO] FaceRecognizer: Minimum distance found: 0.6475 for identity: hamza
+2025-07-31 15:25:52,187 [INFO] FaceRecognizer: Detected identity: hamza at location: [1304, 719, 181, 232]
+2025-07-31 15:25:52,187 [INFO] FaceRecognizer: Minimum distance found: 0.9688 for identity: mohammed
+2025-07-31 15:25:52,187 [INFO] FaceRecognizer: Detected identity: mohammed at location: [233, 357, 432, 534]
+2025-07-31 15:25:52,687 [INFO] FaceRecognizer: Minimum distance found: 0.7100 for identity: hamza
+2025-07-31 15:25:52,687 [INFO] FaceRecognizer: Detected identity: hamza at location: [1323, 714, 184, 239]
+2025-07-31 15:25:52,687 [INFO] FaceRecognizer: Minimum distance found: 0.8646 for identity: mohammed
+2025-07-31 15:25:52,687 [INFO] FaceRecognizer: Detected identity: mohammed at location: [203, 306, 411, 484]
+2025-07-31 15:25:53,204 [INFO] FaceRecognizer: Minimum distance found: 0.7332 for identity: hamza
+2025-07-31 15:25:53,204 [INFO] FaceRecognizer: Detected identity: hamza at location: [1312, 716, 191, 245]
+2025-07-31 15:25:53,708 [INFO] FaceRecognizer: Minimum distance found: 0.7159 for identity: hamza
+2025-07-31 15:25:53,708 [INFO] FaceRecognizer: Detected identity: hamza at location: [1308, 722, 187, 234]
+2025-07-31 15:25:53,708 [INFO] FaceRecognizer: Minimum distance found: 0.8820 for identity: mohammed
+2025-07-31 15:25:53,708 [INFO] FaceRecognizer: Detected identity: mohammed at location: [214, 314, 422, 525]
+2025-07-31 15:25:54,206 [INFO] FaceRecognizer: Minimum distance found: 0.6630 for identity: hamza
+2025-07-31 15:25:54,206 [INFO] FaceRecognizer: Detected identity: hamza at location: [1305, 733, 181, 224]
+2025-07-31 15:25:54,206 [INFO] FaceRecognizer: Minimum distance found: 0.9762 for identity: mohammed
+2025-07-31 15:25:54,206 [INFO] FaceRecognizer: Detected identity: mohammed at location: [277, 322, 402, 515]
+2025-07-31 15:25:54,689 [INFO] FaceRecognizer: Minimum distance found: 0.7717 for identity: hamza
+2025-07-31 15:25:54,690 [INFO] FaceRecognizer: Detected identity: hamza at location: [1297, 726, 188, 242]
+2025-07-31 15:25:55,200 [INFO] FaceRecognizer: Minimum distance found: 0.7663 for identity: hamza
+2025-07-31 15:25:55,200 [INFO] FaceRecognizer: Detected identity: hamza at location: [1296, 724, 188, 243]
+2025-07-31 15:25:55,742 [INFO] FaceRecognizer: Minimum distance found: 0.7302 for identity: hamza
+2025-07-31 15:25:55,742 [INFO] FaceRecognizer: Detected identity: hamza at location: [1301, 725, 185, 238]
+2025-07-31 15:25:56,248 [INFO] FaceRecognizer: Minimum distance found: 0.6861 for identity: hamza
+2025-07-31 15:25:56,248 [INFO] FaceRecognizer: Detected identity: hamza at location: [1306, 715, 190, 241]
+2025-07-31 15:25:56,738 [INFO] FaceRecognizer: Minimum distance found: 0.7774 for identity: hamza
+2025-07-31 15:25:56,738 [INFO] FaceRecognizer: Detected identity: hamza at location: [1298, 712, 194, 243]
+2025-07-31 15:25:57,227 [INFO] FaceRecognizer: Minimum distance found: 0.7070 for identity: hamza
+2025-07-31 15:25:57,227 [INFO] FaceRecognizer: Detected identity: hamza at location: [1296, 714, 189, 232]
+2025-07-31 15:25:57,726 [INFO] FaceRecognizer: Minimum distance found: 0.6415 for identity: hamza
+2025-07-31 15:25:57,726 [INFO] FaceRecognizer: Detected identity: hamza at location: [1295, 709, 187, 237]
+2025-07-31 15:25:58,309 [INFO] FaceRecognizer: Minimum distance found: 0.5834 for identity: hamza
+2025-07-31 15:25:58,309 [INFO] FaceRecognizer: Detected identity: hamza at location: [1293, 709, 184, 235]
+2025-07-31 15:25:58,859 [INFO] FaceRecognizer: Minimum distance found: 0.6277 for identity: hamza
+2025-07-31 15:25:58,859 [INFO] FaceRecognizer: Detected identity: hamza at location: [1297, 712, 182, 235]
+2025-07-31 15:25:59,382 [INFO] FaceRecognizer: Minimum distance found: 0.6711 for identity: hamza
+2025-07-31 15:25:59,382 [INFO] FaceRecognizer: Detected identity: hamza at location: [1290, 714, 176, 228]
+2025-07-31 15:25:59,900 [INFO] FaceRecognizer: Minimum distance found: 0.6073 for identity: hamza
+2025-07-31 15:25:59,900 [INFO] FaceRecognizer: Detected identity: hamza at location: [1287, 709, 185, 240]
+2025-07-31 15:26:00,420 [INFO] FaceRecognizer: Minimum distance found: 0.7050 for identity: hamza
+2025-07-31 15:26:00,420 [INFO] FaceRecognizer: Detected identity: hamza at location: [1281, 710, 192, 244]
+2025-07-31 15:26:00,902 [INFO] FaceRecognizer: Minimum distance found: 0.7349 for identity: hamza
+2025-07-31 15:26:00,902 [INFO] FaceRecognizer: Detected identity: hamza at location: [1275, 726, 183, 233]
+2025-07-31 15:26:01,422 [INFO] FaceRecognizer: Minimum distance found: 0.6996 for identity: hamza
+2025-07-31 15:26:01,422 [INFO] FaceRecognizer: Detected identity: hamza at location: [1282, 714, 193, 246]
+2025-07-31 15:26:01,938 [INFO] FaceRecognizer: Minimum distance found: 0.6498 for identity: hamza
+2025-07-31 15:26:01,938 [INFO] FaceRecognizer: Detected identity: hamza at location: [1281, 710, 189, 242]
+2025-07-31 15:26:02,848 [INFO] FaceRecognizer: Minimum distance found: 0.7220 for identity: hamza
+2025-07-31 15:26:02,848 [INFO] FaceRecognizer: Detected identity: hamza at location: [1259, 722, 185, 230]
+2025-07-31 15:26:03,347 [INFO] FaceRecognizer: Minimum distance found: 0.6292 for identity: hamza
+2025-07-31 15:26:03,348 [INFO] FaceRecognizer: Detected identity: hamza at location: [1236, 717, 184, 232]
+2025-07-31 15:26:03,840 [INFO] FaceRecognizer: Minimum distance found: 0.6900 for identity: hamza
+2025-07-31 15:26:03,840 [INFO] FaceRecognizer: Detected identity: hamza at location: [1245, 710, 180, 234]
+2025-07-31 15:26:04,336 [INFO] FaceRecognizer: Minimum distance found: 0.7577 for identity: hamza
+2025-07-31 15:26:04,336 [INFO] FaceRecognizer: Detected identity: hamza at location: [1274, 726, 184, 236]
+2025-07-31 15:26:04,825 [INFO] FaceRecognizer: Minimum distance found: 0.7972 for identity: hamza
+2025-07-31 15:26:04,825 [INFO] FaceRecognizer: Detected identity: hamza at location: [1320, 705, 181, 245]
+2025-07-31 15:26:05,786 [INFO] FaceRecognizer: Minimum distance found: 0.6108 for identity: hamza
+2025-07-31 15:26:05,787 [INFO] FaceRecognizer: Detected identity: hamza at location: [1265, 700, 179, 234]
+2025-07-31 15:26:06,278 [INFO] FaceRecognizer: Minimum distance found: 0.6214 for identity: hamza
+2025-07-31 15:26:06,278 [INFO] FaceRecognizer: Detected identity: hamza at location: [1254, 701, 181, 239]
+2025-07-31 15:26:06,794 [INFO] FaceRecognizer: Minimum distance found: 0.6707 for identity: hamza
+2025-07-31 15:26:06,794 [INFO] FaceRecognizer: Detected identity: hamza at location: [1248, 716, 183, 241]
+2025-07-31 15:26:07,309 [INFO] FaceRecognizer: Minimum distance found: 0.8385 for identity: hamza
+2025-07-31 15:26:07,309 [INFO] FaceRecognizer: Detected identity: hamza at location: [1257, 708, 185, 238]
+2025-07-31 15:26:07,789 [INFO] FaceRecognizer: Minimum distance found: 0.6150 for identity: hamza
+2025-07-31 15:26:07,790 [INFO] FaceRecognizer: Detected identity: hamza at location: [1248, 703, 184, 232]
+2025-07-31 15:26:08,302 [INFO] FaceRecognizer: Minimum distance found: 0.6294 for identity: hamza
+2025-07-31 15:26:08,302 [INFO] FaceRecognizer: Detected identity: hamza at location: [1235, 702, 177, 220]
+2025-07-31 15:26:08,790 [INFO] FaceRecognizer: Minimum distance found: 0.5922 for identity: hamza
+2025-07-31 15:26:08,790 [INFO] FaceRecognizer: Detected identity: hamza at location: [1229, 697, 181, 235]
+2025-07-31 15:26:09,277 [INFO] FaceRecognizer: Minimum distance found: 0.6522 for identity: hamza
+2025-07-31 15:26:09,277 [INFO] FaceRecognizer: Detected identity: hamza at location: [1235, 704, 179, 232]
+2025-07-31 15:26:09,784 [INFO] FaceRecognizer: Minimum distance found: 0.6242 for identity: hamza
+2025-07-31 15:26:09,784 [INFO] FaceRecognizer: Detected identity: hamza at location: [1242, 702, 181, 238]
+2025-07-31 15:26:10,275 [INFO] FaceRecognizer: Minimum distance found: 0.6298 for identity: hamza
+2025-07-31 15:26:10,275 [INFO] FaceRecognizer: Detected identity: hamza at location: [1249, 703, 178, 234]
+2025-07-31 15:26:10,765 [INFO] FaceRecognizer: Minimum distance found: 0.5724 for identity: hamza
+2025-07-31 15:26:10,765 [INFO] FaceRecognizer: Detected identity: hamza at location: [1229, 697, 185, 241]
+2025-07-31 15:26:11,268 [INFO] FaceRecognizer: Minimum distance found: 0.5724 for identity: hamza
+2025-07-31 15:26:11,268 [INFO] FaceRecognizer: Detected identity: hamza at location: [1233, 706, 179, 235]
+2025-07-31 15:26:11,759 [INFO] FaceRecognizer: Minimum distance found: 0.6816 for identity: hamza
+2025-07-31 15:26:11,759 [INFO] FaceRecognizer: Detected identity: hamza at location: [1235, 707, 184, 240]
+2025-07-31 15:26:12,259 [INFO] FaceRecognizer: Minimum distance found: 0.7856 for identity: hamza
+2025-07-31 15:26:12,259 [INFO] FaceRecognizer: Detected identity: hamza at location: [1226, 727, 190, 242]
+2025-07-31 15:26:12,757 [INFO] FaceRecognizer: Minimum distance found: 0.7816 for identity: hamza
+2025-07-31 15:26:12,757 [INFO] FaceRecognizer: Detected identity: hamza at location: [1219, 729, 190, 239]
+2025-07-31 15:26:13,233 [INFO] FaceRecognizer: Minimum distance found: 0.6701 for identity: hamza
+2025-07-31 15:26:13,233 [INFO] FaceRecognizer: Detected identity: hamza at location: [1236, 730, 189, 244]
+2025-07-31 15:26:13,737 [INFO] FaceRecognizer: Minimum distance found: 0.7286 for identity: hamza
+2025-07-31 15:26:13,737 [INFO] FaceRecognizer: Detected identity: hamza at location: [1251, 715, 185, 243]
+2025-07-31 15:26:14,244 [INFO] FaceRecognizer: Minimum distance found: 0.8356 for identity: hamza
+2025-07-31 15:26:14,245 [INFO] FaceRecognizer: Detected identity: hamza at location: [1249, 708, 181, 237]
+2025-07-31 15:26:14,731 [INFO] FaceRecognizer: Minimum distance found: 0.7150 for identity: hamza
+2025-07-31 15:26:14,732 [INFO] FaceRecognizer: Detected identity: hamza at location: [1229, 711, 184, 241]
+2025-07-31 15:26:15,239 [INFO] FaceRecognizer: Minimum distance found: 0.6981 for identity: hamza
+2025-07-31 15:26:15,239 [INFO] FaceRecognizer: Detected identity: hamza at location: [1238, 697, 188, 236]
+2025-07-31 15:26:15,239 [INFO] FaceRecognizer: Minimum distance found: 0.7828 for identity: mohammed
+2025-07-31 15:26:15,239 [INFO] FaceRecognizer: Detected identity: mohammed at location: [389, 473, 325, 390]
+2025-07-31 15:26:15,855 [INFO] FaceRecognizer: Minimum distance found: 0.7276 for identity: hamza
+2025-07-31 15:26:15,855 [INFO] FaceRecognizer: Detected identity: hamza at location: [1238, 708, 180, 229]
+2025-07-31 15:26:16,370 [INFO] FaceRecognizer: Minimum distance found: 0.7483 for identity: hamza
+2025-07-31 15:26:16,370 [INFO] FaceRecognizer: Detected identity: hamza at location: [1224, 709, 182, 235]
+2025-07-31 15:26:16,893 [INFO] FaceRecognizer: Minimum distance found: 0.7460 for identity: hamza
+2025-07-31 15:26:16,893 [INFO] FaceRecognizer: Detected identity: hamza at location: [1216, 712, 190, 246]
+2025-07-31 15:26:17,409 [INFO] FaceRecognizer: Minimum distance found: 0.6986 for identity: hamza
+2025-07-31 15:26:17,409 [INFO] FaceRecognizer: Detected identity: hamza at location: [1223, 712, 182, 238]
+2025-07-31 15:26:17,924 [INFO] FaceRecognizer: Minimum distance found: 0.6171 for identity: hamza
+2025-07-31 15:26:17,924 [INFO] FaceRecognizer: Detected identity: hamza at location: [1215, 710, 184, 240]
+2025-07-31 15:26:18,414 [INFO] FaceRecognizer: Minimum distance found: 0.5982 for identity: hamza
+2025-07-31 15:26:18,414 [INFO] FaceRecognizer: Detected identity: hamza at location: [1228, 706, 184, 244]
+2025-07-31 15:26:18,909 [INFO] FaceRecognizer: Minimum distance found: 0.6891 for identity: hamza
+2025-07-31 15:26:18,909 [INFO] FaceRecognizer: Detected identity: hamza at location: [1218, 708, 194, 252]
+2025-07-31 15:26:19,423 [INFO] FaceRecognizer: Minimum distance found: 0.6303 for identity: hamza
+2025-07-31 15:26:19,424 [INFO] FaceRecognizer: Detected identity: hamza at location: [1236, 705, 183, 240]
+2025-07-31 15:26:19,424 [INFO] FaceRecognizer: Minimum distance found: 0.7691 for identity: mohammed
+2025-07-31 15:26:19,424 [INFO] FaceRecognizer: Detected identity: mohammed at location: [10, 345, 327, 391]
+2025-07-31 15:26:19,932 [INFO] FaceRecognizer: Minimum distance found: 0.6206 for identity: hamza
+2025-07-31 15:26:19,932 [INFO] FaceRecognizer: Detected identity: hamza at location: [1234, 705, 183, 238]
+2025-07-31 15:26:20,419 [INFO] FaceRecognizer: Minimum distance found: 0.5854 for identity: hamza
+2025-07-31 15:26:20,419 [INFO] FaceRecognizer: Detected identity: hamza at location: [1229, 711, 180, 235]
+2025-07-31 15:26:20,920 [INFO] FaceRecognizer: Minimum distance found: 0.6261 for identity: hamza
+2025-07-31 15:26:20,920 [INFO] FaceRecognizer: Detected identity: hamza at location: [1230, 714, 180, 237]
+2025-07-31 15:26:21,431 [INFO] FaceRecognizer: Minimum distance found: 0.6530 for identity: hamza
+2025-07-31 15:26:21,431 [INFO] FaceRecognizer: Detected identity: hamza at location: [1235, 716, 176, 235]
+2025-07-31 15:26:21,431 [INFO] FaceRecognizer: Minimum distance found: 0.5645 for identity: mohammed
+2025-07-31 15:26:21,431 [INFO] FaceRecognizer: Detected identity: mohammed at location: [11, 325, 357, 418]
+2025-07-31 15:26:21,965 [INFO] FaceRecognizer: Minimum distance found: 0.6722 for identity: hamza
+2025-07-31 15:26:21,965 [INFO] FaceRecognizer: Detected identity: hamza at location: [1242, 712, 179, 232]
+2025-07-31 15:26:21,965 [INFO] FaceRecognizer: Minimum distance found: 0.6354 for identity: mohammed
+2025-07-31 15:26:21,965 [INFO] FaceRecognizer: Detected identity: mohammed at location: [26, 333, 342, 404]
+2025-07-31 15:26:22,488 [INFO] FaceRecognizer: Minimum distance found: 0.7312 for identity: hamza
+2025-07-31 15:26:22,488 [INFO] FaceRecognizer: Detected identity: hamza at location: [1241, 729, 189, 244]
+2025-07-31 15:26:22,488 [INFO] FaceRecognizer: Minimum distance found: 0.5925 for identity: mohammed
+2025-07-31 15:26:22,488 [INFO] FaceRecognizer: Detected identity: mohammed at location: [17, 328, 356, 416]
+2025-07-31 15:26:23,023 [INFO] FaceRecognizer: Minimum distance found: 0.6541 for identity: hamza
+2025-07-31 15:26:23,024 [INFO] FaceRecognizer: Detected identity: hamza at location: [1242, 717, 191, 249]
+2025-07-31 15:26:23,024 [INFO] FaceRecognizer: Minimum distance found: 0.5023 for identity: mohammed
+2025-07-31 15:26:23,024 [INFO] FaceRecognizer: Detected identity: mohammed at location: [24, 332, 350, 411]
+2025-07-31 15:26:23,569 [INFO] FaceRecognizer: Minimum distance found: 0.6317 for identity: hamza
+2025-07-31 15:26:23,570 [INFO] FaceRecognizer: Detected identity: hamza at location: [1267, 707, 185, 241]
+2025-07-31 15:26:23,570 [INFO] FaceRecognizer: Minimum distance found: 0.6093 for identity: mohammed
+2025-07-31 15:26:23,570 [INFO] FaceRecognizer: Detected identity: mohammed at location: [68, 320, 349, 402]
+2025-07-31 15:26:24,099 [INFO] FaceRecognizer: Minimum distance found: 0.6131 for identity: hamza
+2025-07-31 15:26:24,099 [INFO] FaceRecognizer: Detected identity: hamza at location: [1257, 703, 184, 230]
+2025-07-31 15:26:24,099 [INFO] FaceRecognizer: Minimum distance found: 0.5807 for identity: mohammed
+2025-07-31 15:26:24,099 [INFO] FaceRecognizer: Detected identity: mohammed at location: [246, 255, 374, 446]
+2025-07-31 15:26:24,620 [INFO] FaceRecognizer: Minimum distance found: 0.5007 for identity: mohammed
+2025-07-31 15:26:24,620 [INFO] FaceRecognizer: Detected identity: mohammed at location: [436, 92, 399, 488]
+2025-07-31 15:26:24,620 [INFO] FaceRecognizer: Minimum distance found: 0.6227 for identity: hamza
+2025-07-31 15:26:24,620 [INFO] FaceRecognizer: Detected identity: hamza at location: [1270, 654, 205, 261]
+2025-07-31 15:26:25,137 [INFO] FaceRecognizer: Minimum distance found: 0.9282 for identity: hamza
+2025-07-31 15:26:25,137 [INFO] FaceRecognizer: Detected identity: hamza at location: [1463, 564, 261, 309]
+2025-07-31 15:26:25,137 [INFO] FaceRecognizer: Minimum distance found: 0.4810 for identity: mohammed
+2025-07-31 15:26:25,137 [INFO] FaceRecognizer: Detected identity: mohammed at location: [632, 229, 342, 390]
+2025-07-31 15:26:25,640 [INFO] FaceRecognizer: Minimum distance found: 0.4750 for identity: mohammed
+2025-07-31 15:26:25,640 [INFO] FaceRecognizer: Detected identity: mohammed at location: [779, 242, 337, 387]
+2025-07-31 15:26:25,640 [INFO] FaceRecognizer: Minimum distance found: 0.5967 for identity: hamza
+2025-07-31 15:26:25,640 [INFO] FaceRecognizer: Detected identity: hamza at location: [1676, 520, 255, 328]
+2025-07-31 15:26:26,180 [INFO] FaceRecognizer: Minimum distance found: 0.7444 for identity: hamza
+2025-07-31 15:26:26,180 [INFO] FaceRecognizer: Detected identity: hamza at location: [1627, 531, 271, 333]
+2025-07-31 15:26:26,180 [INFO] FaceRecognizer: Minimum distance found: 0.5557 for identity: mohammed
+2025-07-31 15:26:26,180 [INFO] FaceRecognizer: Detected identity: mohammed at location: [797, 235, 340, 413]
+2025-07-31 15:26:26,686 [INFO] FaceRecognizer: Minimum distance found: 0.4108 for identity: mohammed
+2025-07-31 15:26:26,686 [INFO] FaceRecognizer: Detected identity: mohammed at location: [760, 241, 364, 454]
+2025-07-31 15:35:05,397 [INFO] FaceRecognizer: Initializing FaceNet model.
+2025-07-31 15:35:05,397 [INFO] keras_facenet.embedding_model: Loading weights.
+2025-07-31 15:35:05,397 [INFO] keras_facenet.utils: Looking for /Users/elqajjammohammed/.keras-facenet/20180402-114759/20180402-114759-weights.h5
+2025-07-31 15:35:06,230 [INFO] FaceRecognizer: Creating the database of encoded faces.
+2025-07-31 15:35:06,230 [INFO] FaceRecognizer: Loading dataset from dataset
+2025-07-31 15:35:06,231 [INFO] FaceRecognizer: Processing images for person: mohammed
+2025-07-31 15:35:08,834 [INFO] FaceRecognizer: Processing images for person: hamza
+2025-07-31 15:35:11,487 [INFO] FaceRecognizer: Processing images for person: lahoucine
+2025-07-31 15:35:13,757 [INFO] FaceRecognizer: Finished loading dataset.
+2025-07-31 15:35:15,207 [INFO] FaceRecognizer: Webcam stream started successfully.
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.6060 for identity: hamza
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: hamza at location: [908, 413, 188, 244]
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.3904 for identity: mohammed
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: mohammed at location: [55, 173, 325, 386]
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Minimum distance found: 0.5309 for identity: lahoucine
+2025-07-31 15:35:16,313 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1685, 441, 201, 241]
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Minimum distance found: 0.6297 for identity: hamza
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Detected identity: hamza at location: [904, 410, 192, 253]
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Minimum distance found: 0.3629 for identity: mohammed
+2025-07-31 15:35:16,815 [INFO] FaceRecognizer: Detected identity: mohammed at location: [62, 149, 307, 366]
+2025-07-31 15:35:17,332 [INFO] FaceRecognizer: Minimum distance found: 0.6471 for identity: hamza
+2025-07-31 15:35:17,332 [INFO] FaceRecognizer: Detected identity: hamza at location: [912, 412, 188, 248]
+2025-07-31 15:35:17,869 [INFO] FaceRecognizer: Minimum distance found: 0.6333 for identity: hamza
+2025-07-31 15:35:17,870 [INFO] FaceRecognizer: Detected identity: hamza at location: [877, 396, 210, 289]
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Minimum distance found: 0.4209 for identity: lahoucine
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1638, 431, 242, 282]
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Minimum distance found: 0.6615 for identity: hamza
+2025-07-31 15:35:18,364 [INFO] FaceRecognizer: Detected identity: hamza at location: [887, 399, 212, 281]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.6473 for identity: mohammed
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: mohammed at location: [108, 178, 353, 420]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.6087 for identity: hamza
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: hamza at location: [892, 388, 212, 286]
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Minimum distance found: 0.4265 for identity: lahoucine
+2025-07-31 15:35:18,897 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1562, 424, 235, 273]
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Minimum distance found: 0.6171 for identity: hamza
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Detected identity: hamza at location: [899, 394, 208, 273]
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Minimum distance found: 0.4307 for identity: lahoucine
+2025-07-31 15:35:19,392 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1577, 411, 224, 268]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.6433 for identity: hamza
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: hamza at location: [900, 393, 206, 275]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.3911 for identity: lahoucine
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1569, 409, 228, 272]
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Minimum distance found: 0.6117 for identity: mohammed
+2025-07-31 15:35:19,893 [INFO] FaceRecognizer: Detected identity: mohammed at location: [184, 248, 330, 382]
+2025-07-31 15:35:20,434 [INFO] FaceRecognizer: Minimum distance found: 0.6410 for identity: hamza
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: hamza at location: [899, 394, 206, 274]
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Minimum distance found: 0.4390 for identity: lahoucine
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1570, 418, 220, 266]
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Minimum distance found: 0.5876 for identity: mohammed
+2025-07-31 15:35:20,435 [INFO] FaceRecognizer: Detected identity: mohammed at location: [181, 249, 336, 379]
+2025-07-31 15:35:20,963 [INFO] FaceRecognizer: Minimum distance found: 0.4293 for identity: lahoucine
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1563, 419, 222, 269]
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Minimum distance found: 0.6777 for identity: hamza
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 395, 201, 266]
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Minimum distance found: 0.7596 for identity: mohammed
+2025-07-31 15:35:20,964 [INFO] FaceRecognizer: Detected identity: mohammed at location: [170, 207, 348, 401]
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Minimum distance found: 0.6522 for identity: mohammed
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Detected identity: mohammed at location: [131, 199, 336, 391]
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Minimum distance found: 0.3756 for identity: lahoucine
+2025-07-31 15:35:21,485 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1559, 419, 233, 269]
+2025-07-31 15:35:21,486 [INFO] FaceRecognizer: Minimum distance found: 0.6690 for identity: hamza
+2025-07-31 15:35:21,486 [INFO] FaceRecognizer: Detected identity: hamza at location: [891, 392, 204, 268]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.3327 for identity: lahoucine
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1562, 421, 220, 264]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.7175 for identity: hamza
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 394, 203, 271]
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Minimum distance found: 0.5952 for identity: mohammed
+2025-07-31 15:35:22,016 [INFO] FaceRecognizer: Detected identity: mohammed at location: [127, 188, 323, 382]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.3293 for identity: lahoucine
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1559, 417, 233, 263]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.5792 for identity: mohammed
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: mohammed at location: [96, 167, 333, 389]
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Minimum distance found: 0.8815 for identity: hamza
+2025-07-31 15:35:22,555 [INFO] FaceRecognizer: Detected identity: hamza at location: [897, 435, 190, 227]
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Minimum distance found: 0.4729 for identity: lahoucine
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1620, 429, 238, 266]
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Minimum distance found: 0.9336 for identity: hamza
+2025-07-31 15:35:23,066 [INFO] FaceRecognizer: Detected identity: hamza at location: [894, 447, 165, 207]
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Minimum distance found: 0.4162 for identity: lahoucine
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1648, 439, 225, 250]
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Minimum distance found: 0.7149 for identity: hamza
+2025-07-31 15:35:23,564 [INFO] FaceRecognizer: Detected identity: hamza at location: [893, 442, 161, 212]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.4751 for identity: lahoucine
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1638, 430, 230, 261]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.6666 for identity: hamza
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: hamza at location: [882, 427, 172, 227]
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Minimum distance found: 0.5471 for identity: mohammed
+2025-07-31 15:35:24,058 [INFO] FaceRecognizer: Detected identity: mohammed at location: [26, 110, 335, 384]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.7210 for identity: hamza
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: hamza at location: [886, 397, 194, 248]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.4701 for identity: lahoucine
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1663, 420, 240, 271]
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Minimum distance found: 0.5545 for identity: mohammed
+2025-07-31 15:35:24,553 [INFO] FaceRecognizer: Detected identity: mohammed at location: [0, 69, 343, 441]
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Minimum distance found: 0.6342 for identity: hamza
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Detected identity: hamza at location: [972, 371, 221, 283]
+2025-07-31 15:35:25,054 [INFO] FaceRecognizer: Minimum distance found: 0.3975 for identity: lahoucine
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1657, 424, 243, 271]
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Minimum distance found: 0.5269 for identity: mohammed
+2025-07-31 15:35:25,055 [INFO] FaceRecognizer: Detected identity: mohammed at location: [2, 75, 349, 443]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.3882 for identity: lahoucine
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: lahoucine at location: [1684, 417, 229, 274]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.6871 for identity: hamza
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: hamza at location: [1026, 357, 255, 331]
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Minimum distance found: 0.5142 for identity: mohammed
+2025-07-31 15:35:25,590 [INFO] FaceRecognizer: Detected identity: mohammed at location: [11, 96, 334, 414]
+2025-07-31 15:35:25,600 [INFO] FaceRecognizer: ESC pressed. Exiting.
+2025-07-31 15:35:25,602 [INFO] FaceRecognizer: Application terminated gracefully.
